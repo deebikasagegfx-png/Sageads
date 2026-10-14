@@ -1,0 +1,1 @@
+export default function PageBanner({eyebrow,title}){return <section className="page-banner"><div className="container"><div className="eyebrow"><span></span>{eyebrow}</div><h1>{title}</h1><div className="banner-ring ring-one"></div><div className="banner-ring ring-two"></div></div></section>}

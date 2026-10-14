@@ -1,0 +1,27 @@
+export const services = [
+  { title: 'Branding', description: 'Your brand identity is your first impression — and it must be unforgettable. We create meaningful, professional, and consistent identities that build trust and set you apart.', items: ['Logo Design', 'Brand Identity Systems', 'Brand Guidelines', 'Corporate Stationery', 'Rebranding & Brand Refresh'], mark: '01' },
+  { title: 'Graphic Design', description: 'Design influences decisions. We craft clean, high-quality visuals that communicate your message clearly and elevate your brand perception.', items: ['Posters & Social Media Creatives', 'Brochures, Flyers & Pamphlets', 'Corporate Collaterals', 'Packaging & Label Design', 'Print-Ready Designs'], mark: '02' },
+  { title: 'Social media marketing', description: 'Your customers are online — your brand should be too. We run goal-driven campaigns that deliver visibility, customers, and measurable results.', items: ['Social Media Campaigns', 'Lead Generation Ads', 'Audience Targeting', 'Sales & Conversion Strategies', 'A/B Testing & Optimization'], mark: '03' },
+  { title: 'Social Media Management', description: 'Consistency builds trust — and trust builds business. We manage your entire social media presence so your brand stays active, visible, and professional.', items: ['Page Setup & Optimization', 'Monthly Content Planning', 'Daily/Weekly Posting', 'Creative Design', 'Engagement & Query Handling', 'Insights & Reporting'], mark: '04' },
+  { title: 'Website Development', description: 'Your website should impress, guide, and convert. We build modern, fast, and mobile-friendly websites that reflect your brand’s quality.', items: ['Corporate Websites', 'WordPress Websites', 'Landing Pages', 'Portfolio Websites', 'Business/Service Websites', 'Custom UI/UX'], mark: '05' },
+  { title: 'SEO (Search Engine Optimization)', description: 'Being great is useless if customers can’t find you. We optimize your website to rank higher and attract high-quality traffic.', items: ['On-Page SEO', 'Technical SEO', 'Keyword Strategy', 'SEO Audits', 'Local SEO', 'Performance Improvements'], mark: '06' },
+  { title: 'Video Editing', description: 'Your brand story deserves to be told with impact. We edit and produce videos that keep viewers watching and wanting more.', items: ['Promotional Videos', 'Social Media Reels', 'Ad Videos', 'Corporate Videos', 'Product Videos', 'Motion Graphics'], mark: '07' },
+  { title: 'Signage & Digital Print', description: 'Your offline branding matters too. We create high-quality signage and print materials that enhance your brand’s physical presence.', items: ['Storefront Signage', 'Flex & Vinyl Prints', 'Business Cards', 'Brochures & Marketing Materials', 'Large Format Printing'], mark: '08' },
+];
+export const reasons = [
+  ['Data Driven Strategy', 'We study insights, analyze trends, and create campaigns that deliver measurable results.'],
+  ['Tailored Campaigns', 'Your brand is unique—so your campaign strategy is customized to fit your goals and audience.'],
+  ['Multi Platform Expertise', 'From Google to Meta to YouTube, we help your brand stand out on every platform that matters.'],
+  ['Transparent Reporting', 'Real-time clarity on how your campaigns perform with detailed metrics.'],
+  ['End To End Services', 'From planning to launch, we manage everything so you can focus on growing.'],
+  ['Client First Approach', 'We treat your business like ours — with honest communication and impactful results.'],
+];
+export const testimonials = [
+  ['Sage Ads completely transformed our brand visibility. Their outdoor campaigns and social media strategy brought in consistent inquiries. A very reliable team.', 'Aravind Kumar', 'Chennai'],
+  ['We loved working with Sage Ads! Their creative team understands exactly what a business needs. Our Instagram engagement almost doubled within two months.', 'Keerthana Ramesh', 'Coimbatore'],
+  ['The digital ads they ran for us gave amazing results. Clear reporting, honest communication, and a team that actually listens — truly impressed.', 'Dinesh Prabhakaran', 'Trichy'],
+  ['From ad strategy to content creation, everything was on point. We saw a clear improvement in both reach and lead quality. Would definitely recommend.', 'Harish Venugopal', 'Chennai'],
+  ['Our social media pages look more professional than ever. Their content planning and design quality exceeded our expectations.', 'Shruthi', 'Salem'],
+  ['Sage Ads redesigned our branding. The output was clean, modern, and eye-catching. Their services are super professional and friendly.', 'Dharshini', 'Tiruppur'],
+];
+export const team = [['Saagar','Founder','/assets/images/t1.webp'],['Geeta','Co-Founder','/assets/images/t2.webp'],['Pavithra','Operations Manager','/assets/images/t3.webp'],['Monika.N.B','Digital Marketing Executive','/assets/images/t4.webp'],['Kousalya','SEO executive','/assets/images/t5.webp'],['Sameem Fathima','Meta ads expert','/assets/images/t6.webp'],['Sourav Roy','Graphics Designer & Video Editor','/assets/images/t7.webp'],['Balasubramani','Graphic Designer & Video Editor','/assets/images/t8.webp'],['Nisagar Selvarajan','Software Developer','/assets/images/t9.webp'],['Podhumani','Software developer','/assets/images/t10.webp'],['Raju','SMM Specialist','/assets/images/t11.webp'],['Prabha','SEO Trainee','/assets/images/t12.webp'],['Vignesh','SEO specialist','/assets/images/t13.webp'],['Manikkam','Graphic designer','/assets/images/t14.webp'],['Franklin','Intern'],['Mohana Devi','Intern'],['Veyelu Muthu','Intern']];
